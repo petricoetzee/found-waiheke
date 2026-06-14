@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } catch {
         btn.disabled = false;
         btn.textContent = 'Send Enquiry';
-        alert('Sorry, something went wrong. Please email us directly at hello@foundwaiheke.co.nz');
+        alert('Sorry, something went wrong. Please call us on 09-372 2211 or message us on Facebook.');
       }
     });
   }
